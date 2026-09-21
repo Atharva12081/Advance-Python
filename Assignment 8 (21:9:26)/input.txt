@@ -1,0 +1,5 @@
+Monday: Team stand-up at 9:00 AM
+Tuesday: Client review meeting
+Wednesday: Code review session
+Thursday: Sprint planning
+Friday: Deployment and retrospective
